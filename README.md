@@ -18,8 +18,10 @@ EE 413 project.ipynb   # the code
 
 free-spoken-digit-dataset-master  #the data used in this project credit to (Jakobovski)
 
-
 Team Members
 
 Fahad Alfahid
+
 Abdullah Almuqbil
+
+Alwalid Alfaleet
